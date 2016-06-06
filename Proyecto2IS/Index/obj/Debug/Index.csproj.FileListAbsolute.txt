@@ -1,0 +1,7 @@
+C:\Users\MARIMAR\documents\visual studio 2013\Projects\Proyecto2IS\Index\bin\Debug\Index.exe
+C:\Users\MARIMAR\documents\visual studio 2013\Projects\Proyecto2IS\Index\bin\Debug\Index.pdb
+C:\Users\MARIMAR\documents\visual studio 2013\Projects\Proyecto2IS\Index\obj\Debug\Index.csprojResolveAssemblyReference.cache
+C:\Users\MARIMAR\documents\visual studio 2013\Projects\Proyecto2IS\Index\obj\Debug\Index.Properties.Resources.resources
+C:\Users\MARIMAR\documents\visual studio 2013\Projects\Proyecto2IS\Index\obj\Debug\Index.csproj.GenerateResource.Cache
+C:\Users\MARIMAR\documents\visual studio 2013\Projects\Proyecto2IS\Index\obj\Debug\Index.exe
+C:\Users\MARIMAR\documents\visual studio 2013\Projects\Proyecto2IS\Index\obj\Debug\Index.pdb
